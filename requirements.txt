@@ -1,11 +1,6 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
-Pillow
 pdf2image
-torch
-torchvision
-streamlit-webrtc
+Pillow
 deepface
-ultralytics
-cv2
