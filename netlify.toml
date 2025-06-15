@@ -1,0 +1,6 @@
+[build]
+command = "streamlit run yolo_face_kyc.py"
+publish = "."
+
+[build.environment]
+PYTHON_VERSION = "3.10.11"
