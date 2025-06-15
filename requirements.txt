@@ -8,3 +8,4 @@ torchvision
 streamlit-webrtc
 deepface
 ultralytics
+cv2
