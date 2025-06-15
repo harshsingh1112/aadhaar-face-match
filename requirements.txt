@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+Pillow
+pdf2image
+torch
+torchvision
+streamlit-webrtc
+deepface
+ultralytics
