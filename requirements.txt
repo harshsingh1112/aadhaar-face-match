@@ -1,6 +1,6 @@
 streamlit
-opencv-python-headless
-numpy
-pdf2image
-Pillow
 deepface
+numpy
+Pillow
+pdf2image
+opencv-python
