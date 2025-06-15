@@ -3,4 +3,4 @@ deepface
 numpy
 Pillow
 pdf2image
-opencv-python
+opencv-python-headless
